@@ -1,1 +1,8 @@
 node_modules
+.env.local
+.env
+.env.*
+!.env.example
+dish
+next
+.next
