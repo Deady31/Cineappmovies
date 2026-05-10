@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-red-950 text-slate-50 dark:bg-black dark:text-slate-50;
+}
+
+.glass-panel {
+  @apply relative overflow-hidden rounded-[2rem] border border-slate-900/80 bg-slate-950/90 shadow-[0_18px_60px_rgba(0,0,0,0.9)] backdrop-blur-xl;
+}
+
+.glass-panel::before {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  background:
+    repeating-linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.08),
+      rgba(255, 255, 255, 0.08) 2px,
+      transparent 2px,
+      transparent 6px
+    ),
+    radial-gradient(circle at top left, rgba(255, 255, 255, 0.25), transparent 55%),
+    radial-gradient(circle at bottom right, rgba(255, 0, 40, 0.6), transparent 55%);
+  opacity: 0.8;
+  mix-blend-mode: lighten;
+  pointer-events: none;
+}
+
+.glass-panel > * {
+  position: relative;
+  z-index: 1;
+}
+
+.tab-button {
+  @apply inline-flex items-center justify-center rounded-full px-4 py-2 text-sm font-medium transition-colors;
+}
+
+.tab-button-active {
+  @apply bg-primary-600 text-white shadow-sm hover:bg-primary-500;
+}
+
+.tab-button-inactive {
+  @apply bg-transparent text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+

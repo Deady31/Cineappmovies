@@ -1,0 +1,3 @@
+module.exports=[33290,a=>{"use strict";var b=a.i(7997);function c({children:a}){return(0,b.jsx)("html",{lang:"fr",suppressHydrationWarning:!0,children:(0,b.jsx)("body",{className:"min-h-screen bg-slate-100 text-slate-900 antialiased dark:bg-slate-900 dark:text-slate-50",children:a})})}a.s(["default",()=>c,"metadata",0,{title:"Pathé Wilson Movies - Toulouse",description:"Séances cinéma Pathé Wilson Toulouse : films à l’affiche et prochaines sorties, bande-annonces et casting."}])}];
+
+//# sourceMappingURL=app_layout_tsx_271801d7._.js.map

@@ -1,0 +1,38 @@
+[00:00:01.721] Server  LOG     ✓ Ready in 1314ms
+[00:00:05.093] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:06.795] Browser WARN    Image with src "https://image.tmdb.org/t/p/w500/eWPq3wSvJEMakESTXzaBECUNBYr.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:00:08.602] Browser WARN    Image with src "https://image.tmdb.org/t/p/w500/vWJlE5tGAKCIVq0EIDI7K7suDIr.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:01:50.229] Server  LOG       Reload env: .env.local
+[00:01:50.308] Server  LOG     ✓ Compiled in 10ms
+[00:01:54.165] Server  WARN    NOTTE_API_KEY or NOTTE_FUNCTION_ID is missing. Falling back to TMDb.
+[00:03:12.474] Server  WARN    NOTTE_API_KEY or NOTTE_FUNCTION_ID is missing. Falling back to TMDb.
+[00:03:34.969] Server  WARN    NOTTE_API_KEY or NOTTE_FUNCTION_ID is missing. Falling back to TMDb.
+[00:05:09.597] Server  WARN    NOTTE_API_KEY or NOTTE_FUNCTION_ID is missing. Falling back to TMDb.
+[00:05:25.562] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:25.715] Server  WARN    NOTTE_API_KEY or NOTTE_FUNCTION_ID is missing. Falling back to TMDb.
+[00:05:26.071] Browser WARN    Image with src "https://image.tmdb.org/t/p/w500/81XMSZgJOk7e5eJCWeWMOVCWBtL.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:06:18.161] Server  WARN    NOTTE_API_KEY or NOTTE_FUNCTION_ID is missing. Falling back to TMDb.
+[00:26:27.029] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:27.789] Server  WARN    NOTTE_API_KEY or NOTTE_FUNCTION_ID is missing. Falling back to TMDb.
+[00:26:28.104] Browser WARN    Image with src "https://image.tmdb.org/t/p/w500/lw7ZdkW3BrNfgxWuFVyaXecE5Jn.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:28:33.201] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:33.491] Server  WARN    NOTTE_API_KEY or NOTTE_FUNCTION_ID is missing. Falling back to TMDb.
+[00:28:33.884] Browser WARN    Image with src "https://image.tmdb.org/t/p/w500/lw7ZdkW3BrNfgxWuFVyaXecE5Jn.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:48:13.972] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:48:14.364] Server  WARN    NOTTE_API_KEY or NOTTE_FUNCTION_ID is missing. Falling back to TMDb.
+[00:48:14.834] Browser WARN    Image with src "https://image.tmdb.org/t/p/w500/lw7ZdkW3BrNfgxWuFVyaXecE5Jn.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:53:59.153] Server  WARN    NOTTE_API_KEY or NOTTE_FUNCTION_ID is missing. Falling back to TMDb.
+[01:11:06.610] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:11:06.769] Server  WARN    NOTTE_API_KEY or NOTTE_FUNCTION_ID is missing. Falling back to TMDb.
+[01:11:06.952] Browser WARN    Image with src "https://image.tmdb.org/t/p/w500/lw7ZdkW3BrNfgxWuFVyaXecE5Jn.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:11:41.149] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:11:41.266] Server  WARN    NOTTE_API_KEY or NOTTE_FUNCTION_ID is missing. Falling back to TMDb.
+[01:11:41.457] Browser WARN    Image with src "https://image.tmdb.org/t/p/w500/lw7ZdkW3BrNfgxWuFVyaXecE5Jn.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
